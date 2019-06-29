@@ -34,7 +34,9 @@ test driven development means writing the tests first to define what you want th
 
 1. Mention three types of automated tests.
 
-unit test, integration test, regression test
+unit test-test each individual piece of code
+integration test-test several units that work together to make sure there are no errors in how they interact
+regression test-run unit tests again after integrating to make sure we didn't break anything
 
 ## Project Set Up
 
